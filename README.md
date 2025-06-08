@@ -2,7 +2,7 @@
 Course Project for EC2.205 - Radio Frequency Based Sensors design: Principles and Applications
 
 # Contributors
-## Team Sensari
+Team Sensari  
 [M P Samartha](https://github.com/samarthamp)  
 [Srihari Padmanabhan](https://github.com/sriharip114)  
 [Siddarth G.](https://github.com/IamSid44)  
